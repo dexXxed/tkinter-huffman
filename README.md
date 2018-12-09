@@ -1,6 +1,5 @@
 # tkinter-huffman
-There is visual.exe file
-So, if you are paranoik, then start script like:
+There is visual.exe file, but if you are paranoid, then start script like:
 ```
 py -3 visual.py
 ```
